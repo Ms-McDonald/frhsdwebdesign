@@ -37,6 +37,10 @@ p {
   text-decoration: none;
   color: black;
 }
+a.file {
+  text-decoration: none;
+  color: white;
+}
 .title {
   font-size: 22px;
 }
