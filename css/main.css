@@ -343,8 +343,18 @@ a.file {
     )
     1;
 }
+.navbar-light .navbar-nav .spanish {
+    color: rgba(246, 79, 89, .75);
+}
+.navbar-light .navbar-nav .spanish:hover {
+    color: rgba(246, 79, 89, 1);
+}
 .bold {
   font-weight: bold;
+}
+.semibold {
+  font-size: 22px;
+  font-weight: 500;
 }
 .c-images {
   padding: 1rem;
