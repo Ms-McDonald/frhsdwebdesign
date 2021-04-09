@@ -344,10 +344,10 @@ a.file {
     1;
 }
 .navbar-light .navbar-nav .spanish {
-    color: rgba(246, 79, 89, .75);
+    color: #366fd7;
 }
 .navbar-light .navbar-nav .spanish:hover {
-    color: rgba(246, 79, 89, 1);
+    color: #5592ff;
 }
 .bold {
   font-weight: bold;
